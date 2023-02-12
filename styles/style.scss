@@ -1,0 +1,18 @@
+@import "best";
+@import "nature";
+@import "header";
+@import "blocks";
+@import "shop";
+@import "sing";
+@import "wool";
+@import "footer";
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  color: #fff;
+}
+* {
+  box-sizing: border-box;
+}

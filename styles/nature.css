@@ -1,0 +1,28 @@
+.nature {
+  display: flex;
+  background: #6889a5;
+}
+.nature__container {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+.nature__text-container {
+  width: 376px;
+  margin-top: 63px;
+}
+.nature__subtitle {
+  margin: 0 0 18px 0;
+}
+.nature__title {
+  margin: 0 0 30px 0;
+  font-size: 48px;
+}
+.nature__text {
+  font-size: 16px;
+  line-height: 20px;
+}
+.nature__img {
+  width: 50%;
+  margin-bottom: 63px;
+}/*# sourceMappingURL=nature.css.map */

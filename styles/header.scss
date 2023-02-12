@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #6889a5;
+  &__title {
+    font-size: 32px;
+  }
+  &__nav {
+    display: flex;
+    gap: 16px;
+  }
+  &__link {
+    text-transform: uppercase;
+    font-size: 13px;
+    text-decoration: none;
+    color: #ffffff;
+  }
+}

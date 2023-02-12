@@ -1,0 +1,39 @@
+.wool {
+  height: 500px;
+  background-image: url(../images/wool.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.wool__container {
+  width: 328px;
+  display: flex;
+  margin-right: 165px;
+  margin-top: 64px;
+  margin-bottom: 87px;
+  flex-direction: column;
+}
+.wool__title {
+  margin: 0;
+  font-size: 36px;
+  line-height: 42px;
+  font-weight: 400;
+}
+.wool__text {
+  margin: 0;
+  margin-top: 51px;
+}
+.wool__links {
+  margin-top: 109px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 23px;
+}
+.wool__link {
+  color: #ffffff;
+  text-decoration: none;
+}/*# sourceMappingURL=wool.css.map */

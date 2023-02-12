@@ -1,0 +1,23 @@
+.shop {
+  display: flex;
+}
+.shop__img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 798px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+  color: rgb(235, 236, 220);
+}
+.shop__women {
+  background-image: url(../images/shop__women.jpg);
+}
+.shop__men {
+  background-image: url(../images/shop__men.jpg);
+}/*# sourceMappingURL=shop.css.map */

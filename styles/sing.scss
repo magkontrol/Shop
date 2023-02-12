@@ -1,0 +1,44 @@
+.sing {
+  background: rgba(235, 236, 220, 1);
+  /* display: flex; */
+  /* justify-content: center; */
+  &__container {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    margin: 0 auto;
+
+    width: 688px;
+    /* height: 688px; */
+  }
+  &__text {
+    margin: 0;
+    margin-top: 64px;
+    font-size: 13px;
+    line-height: 17px;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+  }
+  &__button {
+    margin-top: 50px;
+    margin-right: 20px;
+    align-self: flex-end;
+    border: none;
+    background: rgba(235, 236, 220, 1);
+  }
+  &__checkbox {
+    display: flex;
+    justify-content: center;
+    margin-top: 19px;
+    margin: 16px 0 81px 0;
+    align-items: center;
+  }
+  &__checkbox-text {
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 14px;
+    text-transform: uppercase;
+    color: black;
+  }
+}
