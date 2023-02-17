@@ -1,8 +1,12 @@
 .footer {
   display: flex;
-  height: 290px;
+  flex-wrap: wrap;
+  padding: 20px;
+  // height: 290px;
+  align-items: center;
   justify-content: space-between;
   margin-top: 30px;
+  gap: 20px;
   &__logo {
     flex-grow: 0;
   }

@@ -8,8 +8,9 @@
   justify-content: center;
 }
 .nature__text-container {
+  padding: 14px;
   width: 376px;
-  margin-top: 63px;
+  margin-top: 64px;
 }
 .nature__subtitle {
   margin: 0 0 18px 0;
