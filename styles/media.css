@@ -1,4 +1,7 @@
 @media screen and (max-width: 768px) {
+  .header__title {
+    font-size: 20px;
+  }
   .header__nav {
     display: none;
   }
@@ -6,6 +9,13 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
+    padding-bottom: 10px;
+  }
+  .nature__title {
+    font-size: 30px;
+  }
+  .nature__container {
+    width: 400px;
   }
   .nature__text-container {
     width: 376px;
@@ -15,11 +25,13 @@
     width: 200px;
     height: 250px;
     margin: 0;
-    padding: 5px;
-    margin-left: 40px;
   }
   .nature__text {
     width: 348px;
+  }
+  .best__title {
+    text-align: center;
+    margin: 20px 0 20px 0;
   }
   .shop {
     display: flex;
