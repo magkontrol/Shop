@@ -20,7 +20,7 @@
       width: 400px;
     }
     &__text-container {
-      width: 376px;
+      width: 80%;
       margin-top: 32px;
     }
     &__img {
@@ -29,7 +29,7 @@
       margin: 0;
     }
     &__text {
-      width: 348px;
+      width: 100%;
     }
   }
 
@@ -52,8 +52,8 @@
   .sing {
     width: 100%;
     &__container {
-      width: 300px;
-      padding: 20px;
+      width: 80%;
+      padding: 6px;
     }
     &__checkbox {
       margin: 0;
@@ -62,7 +62,7 @@
       margin: 0;
     }
     &__button {
-      margin-top: 20px;
+      margin-top: 4px;
     }
   }
 }

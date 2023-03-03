@@ -307,7 +307,7 @@ hr {
     width: 400px;
   }
   .nature__text-container {
-    width: 376px;
+    width: 80%;
     margin-top: 32px;
   }
   .nature__img {
@@ -316,7 +316,7 @@ hr {
     margin: 0;
   }
   .nature__text {
-    width: 348px;
+    width: 100%;
   }
   .best__title {
     text-align: center;
@@ -334,7 +334,7 @@ hr {
     width: 100%;
   }
   .sing__container {
-    width: 300px;
+    width: 80%;
     padding: 20px;
   }
   .sing__checkbox {
