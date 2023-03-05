@@ -5,6 +5,9 @@
   .header__nav {
     display: none;
   }
+  .hamburger-menu {
+    display: block;
+  }
   .nature {
     flex-wrap: wrap;
     justify-content: space-evenly;
