@@ -1,4 +1,6 @@
 .nature {
+  height: 100vh;
+  padding-top: 80px;
   display: flex;
   background: #6889a5;
 }
@@ -25,5 +27,4 @@
 }
 .nature__img {
   width: 50%;
-  margin-bottom: 63px;
 }/*# sourceMappingURL=nature.css.map */

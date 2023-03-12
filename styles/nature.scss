@@ -1,6 +1,9 @@
 .nature {
+  height: 100vh;
+  padding-top: 80px;
   display: flex;
   background: #6889a5;
+
   &__container {
     width: 50%;
     display: flex;
@@ -24,6 +27,5 @@
   }
   &__img {
     width: 50%;
-    margin-bottom: 63px;
   }
 }
